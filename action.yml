@@ -1,0 +1,11 @@
+name: 3d-github-profile
+description: Generate profile 3D Contributions
+author: doapply
+
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
+
+branding:
+  icon: 'box'
+  color: 'green'
